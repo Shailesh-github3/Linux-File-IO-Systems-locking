@@ -148,6 +148,8 @@ int main(int argc, char *argv[]) {
 
 ![image](https://github.com/user-attachments/assets/1b493c43-38b3-48ea-8d27-c9205c4db9a4)
 
+![image](https://github.com/user-attachments/assets/0ecdd5a2-3226-489a-97f3-1e6e14e6d8a8)
+
 
 # RESULT:
 The programs are executed successfully.
